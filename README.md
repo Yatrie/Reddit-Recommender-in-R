@@ -51,6 +51,11 @@ t1_cnasd6x" ,"link_id":"t3_2qyhmp"}
 
 # Results
 
-## Visualizing Matches for keyword:linux
+## Matches for keyword:linux
 
-![alt text](https://github.com/Yatrie/Reddit-Recommender-in-R/blob/master/Results-Linux.PNG "Using aRulesViz Library")
+![alt text](https://github.com/Yatrie/Reddit-Recommender-in-R/blob/master/Results-Linux.PNG)
+
+## Visualizing Results
+Using [aRulesViz Library](https://cran.r-project.org/web/packages/arulesViz/index.html)
+
+![alt text](https://github.com/Yatrie/Reddit-Recommender-in-R/blob/master/Apriori%20-%20Linux.PNG)
