@@ -15,7 +15,7 @@ Implementation in R using [aRules package](https://cran.r-project.org/web/packag
 
 ## Dataset Description
 
-Analysis based on 2015 Reddit Comments Corpus (May'15 Slice ~30GB Uncompressed): https://archive.org/details/2015_reddit_comments_corpus
+Analysis based on [2015 Reddit Comments Corpus](https://archive.org/details/2015_reddit_comments_corpus)
 
 * Source:reddit.com (hosted on archive.org)
 * Volume: 1.65 billion comments from 2007 to May 2015
@@ -38,4 +38,14 @@ my mistakes and I don't have to be afraid of making them. ","created_utc":"
 distinguished":null, "id":"cnasd6x" ,"score_hidden":false, "name":"
 t1_cnasd6x" ,"link_id":"t3_2qyhmp"}
 ```
+
+# Implementation
+
+
+
+
+
+
+# Results
+
 
