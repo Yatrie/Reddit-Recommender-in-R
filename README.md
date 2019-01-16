@@ -41,11 +41,16 @@ t1_cnasd6x" ,"link_id":"t3_2qyhmp"}
 
 # Implementation
 
+## Data Preparation
 
+![alt text](https://github.com/Yatrie/Reddit-Recommender-in-R/blob/master/Extraction.png "Data Preparation")
 
+## Apriori Implemenation
 
-
+![alt text](https://github.com/Yatrie/Reddit-Recommender-in-R/blob/master/Matching.png "Apriori Implementation")
 
 # Results
 
+## Visualizing Matches for keyword:linux
 
+![alt text](https://github.com/Yatrie/Reddit-Recommender-in-R/blob/master/Results-Linux.PNG "Using aRulesViz Library")
